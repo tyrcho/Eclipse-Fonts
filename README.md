@@ -1,6 +1,6 @@
 Easily control Eclipse fonts size by adding  Increase/Decrease fonts size buttons
 
-Update site: http://eclipse-fonts.googlecode.com/svn/trunk/FontsUpdate/
+Update site: https://raw.githubusercontent.com/gkorland/Eclipse-Fonts/master/FontsUpdate/
 
 Shortcuts -
 
